@@ -52,6 +52,8 @@ WHEN I click on the logout option in the navigation
 THEN I am signed out of the site
 WHEN I am idle on the site for more than a set time
 THEN I am able to view posts and comments but I am prompted to log in again before I can add, update, or delete posts
+```
+
 
 ## Usage Instructions: Having issues logging out!!!
 
@@ -59,8 +61,6 @@ THEN I am able to view posts and comments but I am prompted to log in again befo
 2. Once your account is created, you can create blog post by clicking on the dashboard and clicking on "Create a new blog post"
 3. Edit or delete your blod post on the dashboard option in the navigation menu
 4. Account log out: clock on "logout" //which is having issues logging out
-
-
 
 
 ## Built With 
